@@ -1,5 +1,6 @@
 ### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/76744982/170121089-85b3275f-9306-443b-95e7-7ef4b0da423e.gif)
+
+<img src = "https://user-images.githubusercontent.com/76744982/170121642-4431a812-83f7-4e57-bde9-4235a322bf15.gif" >
 
 # 💫About Me :
 I'm Android Developer from India
@@ -22,8 +23,6 @@ Talk to me about Techs, GeoPolitics and Games.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 <!--
