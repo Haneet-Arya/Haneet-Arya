@@ -5,8 +5,8 @@
 # 💫About Me :
 I'm Android Developer from India
 UnderGrad Student in the field of Information Technology from VIT. Vellore
-Want to Collaborate on Open Source Projects, specifically based on Android and Flutter.
-I mostly use Java, Kotlin and Dart daily.
+Want to Collaborate on Open Source Projects, specifically based on Android and Backend.
+I mostly use Java, Kotlin and javascript daily.
 Talk to me about Techs, GeoPolitics and Games.
 
 
